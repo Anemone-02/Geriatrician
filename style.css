@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b7a09d6f;
+    text-align: center;
+    color: rgb(153, 76, 76);
+    margin: 0;
+    padding: 0;
+}
+
+#profile-nav {
+    color: rgb(153, 76, 76);  
+}
+h1 {
+    background-color: white;
+    margin: 0;
+    padding: 5px;
+
+}
+
+h2 {
+
+    margin: 0;
+    padding: 5px;
+
+}
+header {
+
+    height: 120px;
+    margin: -10px;
+    background-color: #ffffff;
+   
+}
+
+#profileheader {
+    margin: 0;
+    padding: 0; 
+    max-width: 1100px;
+    max-height: 300px;
+    grid-column: ooh;
+}
+
+nav {
+    background-color: #0c8679;
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#me1 {
+    width: 150px;
+    height: 150px;
+}
+
+#office1 {
+    width: 200px;
+    height:150px;
+}
+
+#online1 {
+    width: 180px;
+    height: 150px;
+}
+h4 {
+    color: rgb(153, 76, 76);
+
+}
+
+footer {
+    display: block;
+    font-size: 10px;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    margin: 0;
+    background-color: #0c8679;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+
+button {
+    background-color: #aa80f3;
+    /* Green */
+    border: none;
+    border-radius: 10px;
+    color: #9900f3;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
